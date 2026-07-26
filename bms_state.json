@@ -176,54 +176,6 @@
       "price": "96.74",
       "status": "2"
     },
-    "PBRM|23581|20260730|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "04:20 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "245.98",
-      "status": "2"
-    },
-    "PBRM|23581|20260730|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "04:20 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "96.74",
-      "status": "3"
-    },
-    "PBRM|23582|20260730|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "07:25 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "245.98",
-      "status": "1"
-    },
-    "PBRM|23582|20260730|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "07:25 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "96.74",
-      "status": "3"
-    },
-    "PBRM|23583|20260730|ELITE": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "245.98",
-      "status": "2"
-    },
-    "PBRM|23583|20260730|BUDGET": {
-      "venue": "PVR: Perambur, Spectrum Mall",
-      "time": "10:30 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "96.74",
-      "status": "3"
-    },
     "PVHR|39825|20260802|PRIME": {
       "venue": "PVR: Heritage RSL ECR, Chennai",
       "time": "09:00 AM",
@@ -383,6 +335,54 @@
       "cat": "CLASSIC",
       "price": "96.74",
       "status": "3"
+    },
+    "PVHC|30506|20260802|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:40 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHC|30506|20260802|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "03:40 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "2"
+    },
+    "PVHC|30507|20260802|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "07:05 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHC|30507|20260802|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "07:05 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "2"
+    },
+    "PVHC|30508|20260802|PRIME": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:30 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHC|30508|20260802|CLASSIC": {
+      "venue": "PVR: Ampa Mall, Nelson Manickam Road",
+      "time": "10:30 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "2"
     }
   },
   "dates": {
