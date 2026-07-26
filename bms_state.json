@@ -1,10 +1,171 @@
 {
-  "shows": {},
+  "shows": {
+    "PVHR|39825|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39825|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:00 AM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39815|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:50 AM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39815|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:50 AM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39826|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "12:10 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39826|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "12:10 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39816|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "01:00 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39816|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "01:00 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39827|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:20 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39827|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "03:20 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39817|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "04:10 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39817|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "04:10 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39828|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "06:30 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39828|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "06:30 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39818|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "07:20 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39818|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "07:20 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39829|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:40 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39829|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "09:40 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    },
+    "PVHR|39819|20260802|PRIME": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260802",
+      "cat": "PRIME",
+      "price": "245.98",
+      "status": "3"
+    },
+    "PVHR|39819|20260802|CLASSIC": {
+      "venue": "PVR: Heritage RSL ECR, Chennai",
+      "time": "10:30 PM",
+      "date": "20260802",
+      "cat": "CLASSIC",
+      "price": "96.74",
+      "status": "3"
+    }
+  },
   "dates": {
-    "20260730": "BOOKABLE",
+    "20260730": "AVAILABLE",
     "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
-    "20260802": "AVAILABLE",
+    "20260802": "BOOKABLE",
     "20260803": "NOT_OPEN",
     "20260804": "NOT_OPEN",
     "20260805": "NOT_OPEN"
