@@ -38,7 +38,7 @@
       "date": "20260730",
       "cat": "ELITE",
       "price": "245.98",
-      "status": "3"
+      "status": "2"
     },
     "PVES|32087|20260730|BUDGET": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
@@ -98,10 +98,10 @@
     }
   },
   "dates": {
-    "20260730": "AVAILABLE",
+    "20260730": "BOOKABLE",
     "20260731": "AVAILABLE",
     "20260801": "AVAILABLE",
-    "20260802": "BOOKABLE",
+    "20260802": "AVAILABLE",
     "20260803": "AVAILABLE",
     "20260804": "AVAILABLE",
     "20260805": "AVAILABLE",
