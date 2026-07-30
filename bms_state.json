@@ -1,37 +1,5 @@
 {
   "shows": {
-    "PVES|32088|20260730|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:00 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "245.98",
-      "status": "0"
-    },
-    "PVES|32088|20260730|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:00 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "96.74",
-      "status": "0"
-    },
-    "PVES|32086|20260730|ELITE": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:50 PM",
-      "date": "20260730",
-      "cat": "ELITE",
-      "price": "250.98",
-      "status": "0"
-    },
-    "PVES|32086|20260730|BUDGET": {
-      "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
-      "time": "10:50 PM",
-      "date": "20260730",
-      "cat": "BUDGET",
-      "price": "101.74",
-      "status": "0"
-    },
     "PVES|32186|20260802|ELITE": {
       "venue": "HDFC Millennia PVR: Escape-Express Avenue Mall",
       "time": "09:50 AM",
